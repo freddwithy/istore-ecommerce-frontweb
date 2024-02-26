@@ -7,8 +7,8 @@ import Navbar from "@/components/navbar";
 const font = Urbanist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Tienda",
-  description: "Tienda de prueba",
+  title: "iStore Paraguay - La mejor tienda de iPhones en Paraguay",
+  description: "La mejor tienda de iPhones en Paraguay, con los mejores precios y la mejor calidad.",
 };
 
 export default function RootLayout({
